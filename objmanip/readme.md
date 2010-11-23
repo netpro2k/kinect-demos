@@ -1,3 +1,5 @@
+# Kinect Object Manipulation #
+
 A quick demo of on-screen object manipulation with hand gestures
 
 A captured clean depthmap and threshold are used on the live depthmap to filter out everything but my hands. Then blob detection is used to locate their centers. This information is then used to scale and rotate an onscreen object.

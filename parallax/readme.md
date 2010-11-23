@@ -1,3 +1,5 @@
+#Kinect Parallax#
+
 This is just a quick demo showing background removal, using both threshold as well as a captured depthmap (and image) of the empty scene.
 
 Any foreground objects are then (arbitrarily) moved forward in the scene, and due to the motion, a paralax effect can be observed.
